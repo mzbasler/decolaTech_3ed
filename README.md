@@ -1,2 +1,2 @@
 # decolaTech_3ed
-Repositório do Bootcamp Decola Tech 3a edição da Digital Innovation One
+Repositório do Bootcamp Decola Tech 3ª edição da plataforma Digital Innovation One
